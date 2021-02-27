@@ -1,0 +1,44 @@
+*{
+    background-color: #544db1;
+}
+
+.container{
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 50px;
+
+}
+#number{
+    background: #ccc;
+    border-radius: 5%;
+    border-style: none;
+    margin: 10px;
+    line-height: 1.5rem;
+    padding-left: 10px;
+}
+#apply{
+    background: #ccc;
+    border-radius: 5%;
+    border-style: none;
+    line-height: 1.5rem;
+}
+
+#apply:hover{
+    cursor: pointer;
+    color: #40970e;
+}
+
+h1{
+    color: #fff;
+    font-family: "Skranji", sans-serif;
+}
+
+ol{
+    font-size: 1.4rem;
+    font-family: "Skranji", sans-serif;
+    padding-top: 20px;
+}
+
+ol li{
+    padding-top: 40px;
+}
